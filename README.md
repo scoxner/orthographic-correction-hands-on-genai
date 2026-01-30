@@ -146,6 +146,9 @@ This evaluates all trained models on the shared test set and writes evaluation r
 
 For a detailed explanation of the methodology, architecture, training procedure, and results, please refer to the **project report**:
 
-**Character-Level Orthographic Correction with Transformers**
-*Simon Coxner, Giacomo Cordella*
+
+**"Character-Level Orthographic Correction with Transformers"**
+
+by *Giacomo Cordella, Simon Coxner*.
+
 Technical University of Munich
