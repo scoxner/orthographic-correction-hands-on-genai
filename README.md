@@ -142,7 +142,7 @@ This evaluates all trained models on the shared test set and writes evaluation r
 
 ---
 
-##Report
+## Report
 
 For a detailed explanation of the methodology, architecture, training procedure, and results, please refer to the **project report**:
 
